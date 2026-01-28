@@ -4,6 +4,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Montserrat', sans-serif;
+    overflow-x: hidden;
 }
 
 /* Corpo da página */
@@ -750,4 +751,5 @@ body {
     .mobile-nav a {
         font-size: 18px;
     }
+
 }
